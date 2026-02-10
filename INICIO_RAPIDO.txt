@@ -1,0 +1,34 @@
+═══════════════════════════════════════════════════════
+  SCENT STOCK MANAGER - INÍCIO RÁPIDO
+═══════════════════════════════════════════════════════
+
+📋 PRÉ-REQUISITO:
+   Node.js 18+ instalado → https://nodejs.org/
+
+🚀 INSTALAÇÃO:
+
+   1. Extrair o ZIP em uma pasta
+   2. Duplo clique em START.bat
+   3. Aguardar instalação automática
+   4. Sistema abre no navegador
+
+🔐 LOGIN:
+   Email: admin@scentaustralia.com
+   Senha: admin123
+
+📱 ACESSAR DO TABLET/CELULAR:
+   1. Mesma rede Wi-Fi
+   2. Anotar o IP mostrado ao iniciar
+   3. Abrir: http://SEU_IP:5173
+
+💾 BACKUP:
+   Copiar o arquivo database.json regularmente
+
+🛍️ SHOPIFY WEBHOOK:
+   URL: http://SEU_IP:3000/api/shopify/webhook
+   Event: Order creation
+   Format: JSON
+
+═══════════════════════════════════════════════════════
+  Desenvolvido por LeautoTech - 2025
+═══════════════════════════════════════════════════════
